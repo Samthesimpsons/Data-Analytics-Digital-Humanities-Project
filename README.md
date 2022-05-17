@@ -9,8 +9,7 @@
 Read the poster or final report for more information. Also do check out the python notebook.
 
 **Requirements:**
-1. Spotify API Token (Note own API key not YET removed)
+1. Spotify API
 2. Python
-3. Spotipy
 
 
